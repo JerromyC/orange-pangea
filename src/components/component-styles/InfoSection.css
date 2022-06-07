@@ -1,0 +1,40 @@
+ /* SE and /SE notate classes that are on the Same Element */
+
+.info-section_benefits-container {
+    width: 100vw;
+    height: 440px;
+    background: #333333;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.info-section_benefits-item {
+    width: 200px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info-section_benefits-image {
+    margin: 0px auto;
+    max-width:100%;
+    width: auto;
+    filter: invert(86%) sepia(46%) saturate(558%) hue-rotate(68deg) brightness(93%) contrast(85%);
+
+}
+
+.info-section_benefits-text {
+    margin: 0px;
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+/* ----------BODY----------- */
+.info-section_body {
+    width: 100vw;
+    padding: 80px 10vw;
+}

@@ -1,0 +1,34 @@
+.about-section {
+    background-color: var(--primary-alt-opaque);
+    height: auto;
+    width: 100vw;
+    padding: 80px 10vw;
+}
+
+.about-section_body-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.about-section_body-text {
+    width: 75%;
+    padding-left: 80px;
+}
+
+.about-section_body-copy {
+    font-size: 1.5em;
+    margin-top: 0px;
+}
+
+.about-section_image-wrapper {
+    width: 25%;
+    padding: 10px;
+}
+
+.about-section_image {
+    width: 100%;
+    height: auto;
+    margin-top: 26.5%;
+}

@@ -1,0 +1,6 @@
+@import '../../index.css';
+
+.about-info_section {
+    height: auto;
+    margin: 120px 10vw 80px 10vw;
+}

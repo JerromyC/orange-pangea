@@ -1,11 +1,11 @@
 {
   "main.css": "/orange-pangea/static/css/main.c68beaab.chunk.css",
-  "main.js": "/orange-pangea/static/js/main.a656bd60.chunk.js",
-  "main.js.map": "/orange-pangea/static/js/main.a656bd60.chunk.js.map",
+  "main.js": "/orange-pangea/static/js/main.70d57cfb.chunk.js",
+  "main.js.map": "/orange-pangea/static/js/main.70d57cfb.chunk.js.map",
   "static/js/1.517527aa.chunk.js": "/orange-pangea/static/js/1.517527aa.chunk.js",
   "static/js/1.517527aa.chunk.js.map": "/orange-pangea/static/js/1.517527aa.chunk.js.map",
-  "static/js/2.7a685cf2.chunk.js": "/orange-pangea/static/js/2.7a685cf2.chunk.js",
-  "static/js/2.7a685cf2.chunk.js.map": "/orange-pangea/static/js/2.7a685cf2.chunk.js.map",
+  "static/js/2.19b14ea4.chunk.js": "/orange-pangea/static/js/2.19b14ea4.chunk.js",
+  "static/js/2.19b14ea4.chunk.js.map": "/orange-pangea/static/js/2.19b14ea4.chunk.js.map",
   "runtime~main.js": "/orange-pangea/static/js/runtime~main.5cf36fc0.js",
   "runtime~main.js.map": "/orange-pangea/static/js/runtime~main.5cf36fc0.js.map",
   "static/media/undraw_people_re_8spw.svg": "/orange-pangea/static/media/undraw_people_re_8spw.6d031043.svg",
@@ -14,9 +14,9 @@
   "static/media/sistrix-brands.svg": "/orange-pangea/static/media/sistrix-brands.7635f20e.svg",
   "static/media/undraw_home_cinema_l7yl.svg": "/orange-pangea/static/media/undraw_home_cinema_l7yl.78e9e330.svg",
   "static/media/undraw_empty_cart_co35.svg": "/orange-pangea/static/media/undraw_empty_cart_co35.a945b1c4.svg",
-  "static/media/FooterSection.css": "/orange-pangea/static/media/twitter-brands.29423a6f.svg",
+  "static/media/FooterSection.css": "/orange-pangea/static/media/google-brands.a8e8feea.svg",
   "static/css/main.c68beaab.chunk.css.map": "/orange-pangea/static/css/main.c68beaab.chunk.css.map",
   "index.html": "/orange-pangea/index.html",
-  "precache-manifest.76eadb71e0fa92f5c2aab1e11b0a1af0.js": "/orange-pangea/precache-manifest.76eadb71e0fa92f5c2aab1e11b0a1af0.js",
+  "precache-manifest.cb49936fab3a2f8c6791910e1f66a1f7.js": "/orange-pangea/precache-manifest.cb49936fab3a2f8c6791910e1f66a1f7.js",
   "service-worker.js": "/orange-pangea/service-worker.js"
 }

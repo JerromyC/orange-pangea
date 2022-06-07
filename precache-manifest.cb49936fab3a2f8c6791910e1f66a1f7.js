@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a656bd60c048038722f7",
+    "revision": "70d57cfb1679e5dad2a9",
     "url": "/orange-pangea/static/css/main.c68beaab.chunk.css"
   },
   {
-    "revision": "a656bd60c048038722f7",
-    "url": "/orange-pangea/static/js/main.a656bd60.chunk.js"
+    "revision": "70d57cfb1679e5dad2a9",
+    "url": "/orange-pangea/static/js/main.70d57cfb.chunk.js"
   },
   {
     "revision": "517527aa6758397229f0",
     "url": "/orange-pangea/static/js/1.517527aa.chunk.js"
   },
   {
-    "revision": "7a685cf232dae70c761a",
-    "url": "/orange-pangea/static/js/2.7a685cf2.chunk.js"
+    "revision": "19b14ea4a73d9ca45c24",
+    "url": "/orange-pangea/static/js/2.19b14ea4.chunk.js"
   },
   {
     "revision": "5cf36fc068e28a7494bd",
@@ -44,10 +44,6 @@ self.__precacheManifest = [
     "url": "/orange-pangea/static/media/undraw_empty_cart_co35.a945b1c4.svg"
   },
   {
-    "revision": "a8e8feea4a4be6163656cc40072070c7",
-    "url": "/orange-pangea/static/media/google-brands.a8e8feea.svg"
-  },
-  {
     "revision": "c9da26269fb769b2ed0c12ea65851d2a",
     "url": "/orange-pangea/static/media/facebook-f-brands.c9da2626.svg"
   },
@@ -56,7 +52,11 @@ self.__precacheManifest = [
     "url": "/orange-pangea/static/media/twitter-brands.29423a6f.svg"
   },
   {
-    "revision": "97f13ae2c7f99c3c1ba2726282b6ecd1",
+    "revision": "a8e8feea4a4be6163656cc40072070c7",
+    "url": "/orange-pangea/static/media/google-brands.a8e8feea.svg"
+  },
+  {
+    "revision": "6b443413978f013ddbca1cf8219a7acd",
     "url": "/orange-pangea/index.html"
   }
 ];

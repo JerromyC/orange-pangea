@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/orange-pangea/precache-manifest.76eadb71e0fa92f5c2aab1e11b0a1af0.js"
+  "/orange-pangea/precache-manifest.cb49936fab3a2f8c6791910e1f66a1f7.js"
 );
 
 workbox.clientsClaim();

@@ -42,9 +42,9 @@ const FooterSection = () => {
                         <div className="footer-section_item">
                                 <p className="footer-section_text">Contact Us!</p>
                                 <div className="footer-section_social-wrapper">
-                                        <a className="footer-section_social-link fb" href="https://www.facebook.com/"></a>
-                                        <a className="footer-section_social-link twitter" href="https://twitter.com/home?lang=en"></a>
-                                        <a className="footer-section_social-link google" href="https://www.google.com/"></a>
+                                        <a href="https://www.facebook.com/"><i className="footer-section_social-link fb"></i></a>
+                                        <a href="https://twitter.com/home?lang=en"><i  className="footer-section_social-link twitter"></i></a>
+                                        <a href="https://www.google.com/"><i  className="footer-section_social-link google"></i></a>
                                 </div>
                         </div>
                 </div>

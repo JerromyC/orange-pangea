@@ -12,15 +12,15 @@ const InfoSection = () => {
         <section className="info-section">
                 <div className="info-section_benefits-container">
                         <div className="info-section_benefits-item">
-                                <img className="info-section_benefits-image " src={fastTruck}></img>
+                                <img className="info-section_benefits-image " src={fastTruck} alt='alt text'></img>
                                 <p className="info-section_benefits-text">Speedy 2-day Delivery!</p>
                         </div>
                         <div className="info-section_benefits-item">
-                                <img className="info-section_benefits-image" src={dollarBill}></img>
+                                <img className="info-section_benefits-image" src={dollarBill} alt='alt text'></img>
                                 <p className="info-section_benefits-text">Money Back Guarantee</p>
                         </div>
                         <div className="info-section_benefits-item">
-                                <img className="info-section_benefits-image" src={searchGlass}></img>
+                                <img className="info-section_benefits-image" src={searchGlass} alt='alt text'></img>
                                 <p className="info-section_benefits-text">Largest Library Online</p>
                         </div>
                 </div>

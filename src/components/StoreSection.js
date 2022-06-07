@@ -12,7 +12,7 @@ const StoreSection = () => {
                                 <p className="store-section_body-copy">NOTE: we do have a few comedies in our collection that are not suitable for children, so check the ratings and reviews.</p>
                                 <p className="store-section_body-copy">No matter the sub-genre, you can bet that ANY movie you get from us will be geared towards making you laugh until your sides split!</p>
                                 <p className="store-section_body-copy">What are you waiting for? Go check out our movies!</p>
-                                <a className="store_button button orange-button">To the Store!</a>
+                                <a className="store_button button orange-button" href="/store">To the Store!</a>
                         </div>
                         <div className="store-section_boxes square-container">
                                 <div className="store-section_image-wrapper purple-box large">
